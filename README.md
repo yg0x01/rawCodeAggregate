@@ -8,3 +8,6 @@
 rca -p <project path>
 ```
 
+```shell
+make && ./bin/rca -p ./../../acoustics719/
+```
